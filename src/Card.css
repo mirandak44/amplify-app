@@ -1,0 +1,10 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-gap: 28px;
+    margin: 0;
+}
+
+.card {
+    margin: 0;
+}
